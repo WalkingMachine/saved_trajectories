@@ -1,0 +1,57 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: [base_actuator_joint, right_elbow_pitch_joint, right_elbow_yaw_joint, right_shoulder_pitch_joint,
+  right_shoulder_roll_joint, right_shoulder_yaw_joint, right_wrist_pitch_joint, right_wrist_roll_joint]
+points: 
+  - 
+    positions: [0.38383744657039642, 0.659432537650487, -2.156256016183079, -1.1225715226964654, -0.20602380631978612, 1.9678083248120402, 5.235984302009923, -0.6806800620638858]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 0
+      nsecs: 500000000
+  - 
+    positions: [0.38383744657039642, 0.659432537650487, -2.156256016183079, -1.1225715226964654, -0.20602380631978612, 1.9678083248120402, 5.235984302009923, -0.6806800620638858]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 1
+      nsecs: 500000000
+  - 
+    positions: [0.48383744657039642, 0.659432537650487, -2.156256016183079, -1.1242077439030744, -0.20602380631978612, 1.9678083248120402, 5.235984302009923, -0.6806800620638858]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 2
+      nsecs: 500000000
+  - 
+    positions: [0.48383744657039642, 0.659432537650487, -2.156256016183079, -1.1242077439030744, -0.20602380631978612, 1.9678083248120402, 5.235984302009923, -0.6806800620638858]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 3
+      nsecs: 500000000
+  - 
+    positions: [0.48383744657039642, 0.03284632664259757, -2.572755019529785, -1.8032499372160375, -0.20024890794351613, 2.0130454032665064, 5.2010777294513755, -0.6806800620638858]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 4
+      nsecs: 500000000
+  - 
+    positions: [0.48383744657039642, 0.3177458072895263, -0.58783968155298, -0.5916096892505855, 0.018238492362264935, 1.3960845846462746, 6.771873494585993, -1.3264516543970062]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 5
+      nsecs: 500000000
