@@ -8,7 +8,7 @@ joint_names: [base_actuator_joint, right_elbow_pitch_joint, right_elbow_yaw_join
   right_shoulder_roll_joint, right_shoulder_yaw_joint, right_wrist_pitch_joint, right_wrist_roll_joint]
 points: 
   - 
-    positions: [0.2995056390762329, -0.06340310314963205, -0.226080497996632, -0.2807227914034196, 0.08657553882883384, 0.8715232635674264, 0.506141474, -1.3962647995141004]
+    positions: [0.3023627996444702, 0.48522048175051635, -0.4152904368586281, 0.23796738299288878, -0.12709869714933397, 0.018750255885848777, -0.5934155617289654, -0.7679464934602533]
     velocities: []
     accelerations: []
     effort: []
