@@ -1,0 +1,17 @@
+header: 
+  seq: 0
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: ''
+joint_names: [base_actuator_joint, right_elbow_pitch_joint, right_elbow_yaw_joint, right_shoulder_pitch_joint,
+  right_shoulder_roll_joint, right_shoulder_yaw_joint, right_wrist_pitch_joint, right_wrist_roll_joint]
+points: 
+  - 
+    positions: [0.3043862581253052, -0.20200291122225078, 0.11901836589910175, 0.43186240477882265, 0.44751230495105254, 0.525024117892908, -0.15708340474712745, 1.0821018521427401]
+    velocities: []
+    accelerations: []
+    effort: []
+    time_from_start: 
+      secs: 5
+      nsecs: 500000000
