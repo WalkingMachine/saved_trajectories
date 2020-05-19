@@ -1,0 +1,16 @@
+<package>
+
+  <name>saved_trajectories</name>
+  <version>0.3.0</version>
+  <description>
+    List of trajectory files for Sara
+  </description>
+  <author email="philippe117@live.fr">Philippe La Madeleine</author>
+  <maintainer email="philippe117@live.fr">Philippe La Madeleine</maintainer>
+
+  <license>BSD</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
